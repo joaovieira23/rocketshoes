@@ -22,7 +22,7 @@ export default function Home() {
       </li>
       <li>
         <img src="https://static.netshoes.com.br/produtos/chuteira-campo-nike-phantom-vision-club-fg/83/D12-9994-283/D12-9994-283_zoom2.jpg?ts=1564563467&ims=326x"
-        alt="Tênis"/>
+        alt="Chuteira"/>
         <strong>Tênis incrivel</strong>
         <span>$129,90</span>
 
